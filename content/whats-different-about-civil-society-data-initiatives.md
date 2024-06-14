@@ -5,14 +5,12 @@ date: 2022-02-02
 draft: false
 ---
 
-{{% inset %}}
-Compared to those in other sectors, civil society's data initiatives: 
-* Are often multi-team collaborative efforts with a complexity of incentives and power-dynamics
-* These are each different groups: the "user", the "data subject", the "stakeholder". 
-* The purpose or role of data in the project may be fundamentally different
-* Data sources must be treated as imperfect representations of reality
-* Have different funding and sustainability models than we see in the private and public sectors.
-{{% /inset %}}
+> Compared to those in other sectors, civil society's data initiatives: 
+> * Are often multi-team collaborative efforts with a complexity of incentives and power-dynamics
+> * These are each different groups: the "user", the "data subject", the "stakeholder". 
+> * The purpose or role of data in the project may be fundamentally different
+> * Data sources must be treated as imperfect representations of reality
+> * Have different funding and sustainability models than we see in the private and public sectors.
 
 Having acknowledged that we should think carefully about [the use of data in civil society](why-is-civil-society-important.md), we  might ask, well, is this just a matter of directing our collective focus? Can we simply do what we have been doing elsewhere, now with civil society organizations? Can we not utilize, with a few adjustments, those tools, skills, and methods that we created for such initiatives in other problem-spaces?
 
