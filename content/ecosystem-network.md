@@ -2,7 +2,7 @@
 title: "Ecosystem and Network"
 date: 2022-03-14
 tags:
-- draft
+- pillar
 draft: false
 ---
 

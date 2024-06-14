@@ -2,7 +2,7 @@
 title: "Challenges"
 date: 2022-02-11
 tags:
-- draft
+- core-concept
 draft: false
 ---
 

@@ -2,7 +2,8 @@
 title: "Pillars of Capacity"
 date: 2022-03-01
 tags:
-- draft
+- core-concept
+- pillar
 draft: false
 scrap: 
 - which to recognize and create opportunities for data-driven initiatives, and networks to uncover them. This lens must be informed by a systems-level understanding of interventions, balanced by immediate-term needs and constraints.

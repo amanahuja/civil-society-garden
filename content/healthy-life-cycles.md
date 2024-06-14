@@ -2,7 +2,7 @@
 title: "Healthy Life cycles"
 date: 2022-03-11
 tags:
-- draft
+- pillar
 draft: false
 ---
 
