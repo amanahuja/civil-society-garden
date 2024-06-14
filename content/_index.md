@@ -11,10 +11,7 @@ Welcome to my garden! (A digital garden is a kind of personal wiki.)
 
 At the center of this section are the [Six Pillars](pillars-of-capacity.md) that I suggest will strengthen data initiatives in [civil society](why-is-civil-society-important.md). Motivation is provided by a description of the [challenges faced](challenges.md) and [opportunities before us](opportunities.md). Guiding the work that we do in this space are the underlying [principles](principles.md). Together this lays a vision for how we can work towards our [desired future](desired_future_state.md) state.
 
-{{< garden-image 
-  src="/images/sketches/dpcs_website_quartz_graph.jpg" 
-  title="Outline sketch of content"
-  caption="Simplified sketch of the content in this section." >}}
+<img src="images/dpcs_website_quartz_graph.jpg" title="Overview sketch of content" alt="Overview sketch of content" width="800">
 
 On each page I will provide the key ideas, examples to help illustrate the concepts, and references to further reading on the topic.
 

@@ -7,10 +7,7 @@ draft: false
 
 The term *civil society* refers to the "third leg" of society, along with the private sector, and the public sector. This definition usually includes academia, journalists, religious groups, NGOs, activists and nonprofits. 
 
-
-{{% inset %}}
-Note: Confusingly, the similar "civic sector" is used to refer to things related to the government or democratic participation especially by citizens. Here we are talking about *civil* and not *civic*. 
-{{% /inset %}}
+> Note: Confusingly, the similar "civic sector" is used to refer to things related to the government or democratic participation especially by citizens. Here we are talking about *civil* and not *civic*. 
 
 Independence between these sectors can be critical, and provides an important **counterbalance** in society. That's why we might care if a newspaper is owned by a nation-state, or if an alleged public good is provided by a for profit corporation.
 

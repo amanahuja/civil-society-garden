@@ -10,13 +10,11 @@ draft: false
 
 In the social sector, there is a higher bar for success than there is in other sectors. There is a greater need for fairness, accountability and transparency when working with vulnerable populations, in social services, and in domains such as criminal justice. The cost of failure is higher, and incrementalism can be more damaging than beneficial. 
 
-{{% inset %}}
-When I was chapter leader at DataKindSF, we would often get inquiries from local universities and schools; they were looking for "social good" projects through which students could practice basic skills. They hoped to use engagements with local nonprofits and charities as a way of showing real world experience on resumes, typically when applying for jobs at "real" companies. 
-
-While I sought ways to support good intentions and opportunities for exposure, I also saw this as frustratingly backwards. For profit jobs, in most cases, are simpler, more compartmentalized, and come with structure, training and mentoring opportunities. They utilize data that are more trustworthy and more complete, and apply them in problem spaces that have simple causal chains that are easy to understand.
-
-Perhaps, instead, we should see an internship at a for-profit corporation as a way to learn basic skills in preparation for a job at a non profit? 
-{{% /inset %}}
+> When I was chapter leader at DataKindSF, we would often get inquiries from local universities and schools; they were looking for "social good" projects through which students could practice basic skills. They hoped to use engagements with local nonprofits and charities as a way of showing real world experience on resumes, typically when applying for jobs at "real" companies. 
+> 
+> While I sought ways to support good intentions and opportunities for exposure, I also saw this as frustratingly backwards. For profit jobs, in most cases, are simpler, more compartmentalized, and come with structure, training and mentoring opportunities. They utilize data that are more trustworthy and more complete, and apply them in problem spaces that have simple causal chains that are easy to understand.
+> 
+> Perhaps, instead, we should see an internship at a for-profit corporation as a way to learn basic skills in preparation for a job at a non profit? 
 
 Challenges and issues that may cause a data initiative to fail: 
 * **Funding runs out**, and the team is unable to secure new funding. 
@@ -40,7 +38,7 @@ However, most such teams:
 Some of the ways in which we can improve success rate of data products in these contexts is through more informed grant-making, "innovation lab" programs that specialize in civil society data products, expanding career opportunities for students and post-docs, and by expanding the scope of on-campus support like the tech transfer office. 
 
 **Data systems for journalists, activists and for civil discourse**
-There is increasing awareness of issues in this space, due to work by Edward Snowden and the Freedom of the Press Foundation, and global movements like Black Lives Matter and the Arab Spring. These highlight the ways in which digital technologies intersect with protest and free democratic voice, and underscore the nature of the threat models for these actions. These conditions highlight the need for independent and trustworthy technical infrastructure for civil society data tools ([Pillar Three](digital-infrastructure.md). 
+There is increasing awareness of issues in this space, due to work by Edward Snowden and the Freedom of the Press Foundation, and global movements like Black Lives Matter and the Arab Spring. These highlight the ways in which digital technologies intersect with protest and free democratic voice, and underscore the nature of the threat models for these actions. These conditions highlight the need for independent and trustworthy technical infrastructure for civil society data tools ([Pillar Three](digital-infrastructure.md)). 
 
 Journalists are also creating new types of data products. Consider
 * The COVID Tracking Project, which emerged as an independent and vital source of information about the pandemic at a time when the CDC and other government institutions were unable to lead and when public trust in them was low. Started by reporters at The Atlantic and run largely by volunteers, this was a quintessential civil society effort until the Biden administration was able to transition. CTP helped create standards, provided recommendations, and provided data at a time when COVID dashboards were viewed by the public more often than the weather. 
