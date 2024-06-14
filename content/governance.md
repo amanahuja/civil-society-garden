@@ -2,7 +2,7 @@
 title: "Governance Frameworks"
 date: 2022-03-13
 tags:
-- draft
+- pillar
 draft: false
 ---
 
@@ -14,9 +14,7 @@ To address governance issues for a specific data initiative we need to understan
 
 We see governance as a process, rather than a set of rules or agreements. It must continually evolve, and be able to address new and unanticipated questions. It must be sustainable over relevant periods of time, which means that it must remain relevant and empowered. 
 
-{{< pullquote >}}
-Data governance is an enabling mechanism, through which organizations can achieve better leadership, decision making, and adherence to mission. It is a critical part of your data and business strategy.
-{{< /pullquote >}}
+> Data governance is an enabling mechanism, through which organizations can achieve better leadership, decision making, and adherence to mission. It is a critical part of your data and business strategy.
 
 The sector needs models, templates, and frameworks for governance that will meet the needs of its data initiatives. We must be in these concepts, and build institutions that can support individual efforts. 
 

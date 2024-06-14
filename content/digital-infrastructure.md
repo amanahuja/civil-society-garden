@@ -2,7 +2,7 @@
 title: "Digital Infrastructure"
 date: 2022-03-15
 tags:
-- draft
+- pillar
 draft: false
 ---
 

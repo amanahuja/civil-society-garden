@@ -2,7 +2,7 @@
 title: "Sustainable Models"
 date: 2022-03-12
 tags:
-- draft
+- pillar
 draft: false
 ---
 

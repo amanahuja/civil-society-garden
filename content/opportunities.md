@@ -2,7 +2,7 @@
 title: "Opportunities"
 date: 2022-02-10
 tags:
-- draft
+- core-concept
 draft: false
 ---
 
@@ -14,9 +14,8 @@ In my advisory and consulting work, I've been lucky to speak with dozens or hund
 
 These opportunities are easiest to understand through specific examples, and we'll look at a few here. 
 
-{{< pullquote >}}
-Data are a resource like money. They are critical to success, unevenly distributed, and fundamental to the pursuit of privately resourced, public benefit activities. They are tools for reinforcing or redistributing power. <br /> -- Lucy Bernholz (2013). 
-{{< /pullquote >}}
+> Data are a resource like money. They are critical to success, unevenly distributed, and fundamental to the pursuit of privately resourced, public benefit activities. They are tools for reinforcing or redistributing power. <br /> 
+> -- Lucy Bernholz (2013). 
 
 //< select 2 illustrative examples >
 
