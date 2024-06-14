@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Civil Society Garden",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null, 
     locale: "en-US",
     baseUrl: "amanahuja.me/garden/",
     ignorePatterns: ["private", "templates", ".obsidian"],
