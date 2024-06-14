@@ -20,6 +20,8 @@ My energy is focused on civil society (and on collaborations where a civil socie
 * Civil society resists centralized control and expoloitative profiteering, and supports efforts that do the same. 
 * An eroding civil society is an indicator of an unhealthy nation -- and indicates a lack of desire or ability to participate, reduced check-and-balances on power, and greater apathy for marginalized communities. 
 
+Read more about the [values](values.md) of civil society.
+
 ### Digital Civil Society
 Most organizations in civil society inreasingly operate in digital spaces and would be more effective through the use of data and technology -- as discussed by Lucy Bernholz and the Digital Civil Society Lab at Stanford. 
 
