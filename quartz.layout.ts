@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "amanahuja.me": "https://amanahuja.me",
       github: "https://github.com/amanahuja/civil-society-garden",
+      rss: "https://amanahuja.me/civil-society-garden/index.xml",
     },
   }),
 }
