@@ -97,6 +97,7 @@ export default (() => {
             return resource
           }
         })}
+        {/* Matomo Analytics used to go here */ }
       </head>
     )
   }
