@@ -22,9 +22,7 @@ In fact, there are really important differences between a civil society data ini
 
 And this understanding -- that civil society is different, that the problems it tries to solve are different, that the values and principles we need to carry in its work are different, and that together we have to really identify these differences and plan for them -- this undertanding allows us to see the whole sector with new perspective, one that is not just wary of pitfalls but is also full of fresh [ideas and opportunities](opportunities.md).
 
-{{< pullquote >}}
-This understanding allows us to see the whole sector with new perspective, one that is not just wary of pitfalls, but also full of fresh ideas and opportunities and a renewed promise. 
-{{< /pullquote >}}
+> This understanding allows us to see the whole sector with new perspective, one that is not just wary of pitfalls, but also full of fresh ideas and opportunities and a renewed promise. 
 
 ---
 I have described a few of the differences below, with examples, to illustrate how these differences can impact the design, the team composition, the sustainability, and the impact of the tool or product. 

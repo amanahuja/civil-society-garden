@@ -18,7 +18,7 @@ Building and supporting these leaders is one of the core capacities needed in ci
 
 Technical leadership is not the focus here. These leaders themselves need not be technical experts, although they must be conversant in the core technical issues, which are evolving rapidly, and must be able to lead technical teams. 
 
-Innovation is not the holy grail. Building disruptive ... tdtd
+Innovation is not the holy grail. Building disruptive ... <TODO: complete this thought>
 
 > Building and supporting these leaders is one of the core capacities needed for healthy data initiatives in Civil Society.
 

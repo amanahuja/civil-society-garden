@@ -17,7 +17,7 @@ These opportunities are easiest to understand through specific examples, and we'
 > Data are a resource like money. They are critical to success, unevenly distributed, and fundamental to the pursuit of privately resourced, public benefit activities. They are tools for reinforcing or redistributing power. <br /> 
 > -- Lucy Bernholz (2013). 
 
-//< select 2 illustrative examples >
+< TODO: select 2 illustrative examples >
 
 Just as in other sectors, data is being generated at tremendous rates, and an increasing amount of this data is made publicly available. 
 
