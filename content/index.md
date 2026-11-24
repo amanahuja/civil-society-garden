@@ -1,6 +1,6 @@
 ---
 title: "Data initiatives in civil society"
-description: ""
+description: "A digital garden by Aman Ahuja on building effective, resilient, and sustainable data initiatives and digital public goods in civil society."
 subtitle: "a digital garden"
 author: Aman Ahuja
 date: 2022-02-15

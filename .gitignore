@@ -7,5 +7,10 @@ tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
 private/
+.agents/
+AGENTS.md
 .replit
 replit.nix
+.quartz/
+quartz/cli/tui/dist/
+.turbo/
