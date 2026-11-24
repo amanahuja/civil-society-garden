@@ -30,7 +30,7 @@ These values point towards a safer, fairer, and more just society for everyone.
 Read: [Why civil society matters](why-is-civil-society-important.md).
 
 **References and recommended reading**
-* Aman's personal manifesto and principles. 
+* [The Fenris Manifesto](https://gofenris.com/manifesto/)
 * [DIAL Principles for Digital Development](https://digitalprinciples.org/)
 * The [Aspiration Manifesto](https://aspirationtech.org/publications/manifesto)
 * Digital rights values, FATE (fairness, accountability, transparency, ethics)
