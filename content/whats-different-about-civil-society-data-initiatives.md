@@ -30,7 +30,7 @@ I have described a few of the differences below, with examples, to illustrate ho
 #### Multi-stakeholder teams
 Civil society data initiatives are often multi-team collaborative efforts with a complexity of incentives and power-dynamics. 
 
-One [US county that we worked with](/portfolio/recidivism-data-sharing/) was aware that understanding recidivism requires bringing together information from many organizations. An individual's interactions with the justice system over time may include the Sheriff's office, the courts, prison, the probation office, community based organizations (CBOs) and more. Whether or not they recidivate, they may encounter many of these multiple times. 
+One [US county that we worked with](https://amanahuja.me/portfolio/recidivism-data-sharing/) was aware that understanding recidivism requires bringing together information from many organizations. An individual's interactions with the justice system over time may include the Sheriff's office, the courts, prison, the probation office, community based organizations (CBOs) and more. Whether or not they recidivate, they may encounter many of these multiple times.
 
 These are all organizations that are part of the same system, the justice system, and they frequently interact with one another. They even have common goals -- such as to reduce recidivism. So in a broad sense, there is a shared incentive to bring their data together So in a broad sense, there is a shared incentive to bring their data together. 
 
