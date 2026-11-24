@@ -1,6 +1,7 @@
 ---
 title: "Empowered Leaders"
-description: "Pillar 6 - Empowered Leaders" 
+description: "The leadership capabilities needed to govern and sustain data-centric missions and initiatives in civil society."
+author: Aman Ahuja
 date: 2022-03-16
 tags:
 - pillar
@@ -13,7 +14,7 @@ New types of leaders are emerging to meet these challenges, but few resources ar
 
 Building and supporting these leaders is one of the core capacities needed in civil society. We believe that these leaders will 
 * excel at the ability to convene and align stakeholders, and address issues of power
-* need to understand the core issues, risks, and opprtunities of using data
+* need to understand the core issues, risks, and opportunities of using data
 * be capable of managing diverse needs and expertise, including governance, procurement, project management.
 
 Technical leadership is not the focus here. These leaders themselves need not be technical experts, although they must be conversant in the core technical issues, which are evolving rapidly, and must be able to lead technical teams. 
@@ -21,4 +22,3 @@ Technical leadership is not the focus here. These leaders themselves need not be
 Innovation is not the holy grail. Building disruptive ... <TODO: complete this thought>
 
 > Building and supporting these leaders is one of the core capacities needed for healthy data initiatives in Civil Society.
-

@@ -1,12 +1,14 @@
 ---
 title: "Values"
+description: "The pluralistic values that civil society carries and advances."
+author: Aman Ahuja
 date: 2022-02-20
 tags:
 - introduction
 draft: false
 ---
 
-When we think of the independent sector, we think of people and organizations outside the influence of politics and the market that offer additional and alternative services that carry our values. These values include the support of minority perspectives and needs, are fundamentally pluralistic. 
+When we think of the independent sector, we think of people and organizations outside the influence of politics and the market that offer additional and alternative services that carry our values. These values include support for minority perspectives and needs and are fundamentally pluralistic.
 
 Values of civil society:
 * care
@@ -15,7 +17,7 @@ Values of civil society:
 * justice
 * speak to power
 * dignity
-* participiation
+* participation
 * pluralism
 * equity
 

@@ -1,20 +1,22 @@
 ---
 title: "Ecosystem and Network"
+description: "The organizations, networks, funders, experts, and institutions that support civil society data initiatives."
+author: Aman Ahuja
 date: 2022-03-14
 tags:
 - pillar
 draft: false
 ---
 
-Building capacity is too often framed as training for individuals or for teams. This falls far short of true sector-level capacity building, which involves strengthening and building institutions, capabilities and experts in a network that is interdependent, resilient, and self supporting. 
+Building capacity is too often framed as training for individuals or for teams. This falls far short of true sector-level capacity building, which involves strengthening and building institutions, capabilities and experts in a network that is interdependent, resilient, and self-supporting.
 
 Instead, we should imagine all the roles and organizations that do not yet exist, that will live within the sector or directly strengthen it. 
 
-One way to look at this ecosystem in civil society as of consisting of: 
+One way to look at this ecosystem in civil society is as consisting of:
 * Independent entities of civil society. This list varies depending on who you ask, but often includes nonprofits, NGOs, academic institutions, hospitals, journalistic & media organizations, and religious organizations. 
-* Data initiatives, and projects. These may be housed within one organization, or may be collaborations between many organizations from within and without civil society. 
-* Funders, including governments, philanthopy, and private donors. 
-* Experts and consultants. These include lawyers and accountants and their firms, that focus on relevant issues. 
+* Data initiatives and projects. These may be housed within one organization, or may be collaborations between many organizations from within and without civil society.
+* Funders, including governments, philanthropy, and private donors.
+* Experts and consultants. These include lawyers and accountants and their firms that focus on relevant issues.
 * Vendors of products and services in addition to the above experts. Examples are: strategy consulting firms, software and technology vendors, etc. 
 
 A few comments are important here. 
@@ -26,7 +28,7 @@ I also want to note that this description is not intended as a taxonomy. It's no
 There are additional categories of organizations in this network that are of particular interest.
 
 *Special interest communities* <br />
-These are communities and networks in civil society that support each other, usually directed towards common interest or issues. Some are trade associations, like the Nonprofit Technology Enterprise Network (NTEN). 
+These are communities and networks in civil society that support each other, usually directed towards common interests or issues. Some are trade associations, like the Nonprofit Technology Enterprise Network (NTEN).
 
 *Support organizations* <br />
 These are organizations or groups that serve other civil society orgs and efforts. These may be "vertically oriented" around domains, such as the Centre for Investigative Journalism. Or, they might provide resources "horizontally". An important example of the latter horizontal type are the technology transfer offices at universities, that help academic research and efforts develop into organizations, IP, patents, or products. There's much to say about the role of tech transfer offices in supporting the [Six Pillars](pillars-of-capacity.md). 

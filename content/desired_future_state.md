@@ -1,5 +1,7 @@
 ---
 title: "Desired Future State"
+description: "A vision for effective, resilient, and sustainable data initiatives in civil society."
+author: Aman Ahuja
 date: 2024-06-14
 tags:
 - core-concept

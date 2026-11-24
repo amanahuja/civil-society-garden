@@ -6,7 +6,7 @@ https://amanahuja.me/civil-society-garden/
 
 ### What does it take to build effective and resilient digital products in civil society?
 
-Products in civil society often take the form of digital public goods. They are free resources that benefit or empower the general public. They are designed and managed responsibly. These resources are often created by academics, non profit organizations, community based organization, or through a collaboration of teams. To be sustainable, they must balance power among stakeholders and define a long-term plan for funding and resources. They must plan for the governance and ownership of the data they use during and beyond their own lifespans.
+Products in civil society often take the form of digital public goods. They are free resources that benefit or empower the general public. They are designed and managed responsibly. These resources are often created by academics, nonprofit organizations, community-based organizations, or through a collaboration of teams. To be sustainable, they must balance power among stakeholders and define a long-term plan for funding and resources. They must plan for the governance and ownership of the data they use during and beyond their own lifespans.
 
 How can such initiatives be successful? What support systems and environments can we provide so that these resources can flourish and benefit everyone?
 
@@ -14,7 +14,7 @@ The central ideas in this garden revolve around <b>Six Pillars</b> that strength
 
 ### Authors
 
-[To be added].
+Aman Ahuja ([@amanahuja](https://github.com/amanahuja)), Fenris.
 
 ### Technical information
 

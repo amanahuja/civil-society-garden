@@ -1,5 +1,7 @@
 ---
 title: "Pillars of Capacity"
+description: "Six pillars for strengthening the capacity of civil society data initiatives."
+author: Aman Ahuja
 date: 2022-03-01
 tags:
 - core-concept
@@ -9,9 +11,9 @@ scrap:
 - which to recognize and create opportunities for data-driven initiatives, and networks to uncover them. This lens must be informed by a systems-level understanding of interventions, balanced by immediate-term needs and constraints.
 ---
 
-The sector has long recognized ways in which it is different from the private and government sector. It has its own perspective on how efforts should be selected and grown and sustained. It has its own measures of success, and its sets of principles and best practices. The use of data, specifically, presents unique [opportunities](opportunities.md) and [challenges](challenges.md) to civil society. 
+The sector has long recognized ways in which it is different from the private and government sectors. It has its own perspective on how efforts should be selected and grown and sustained. It has its own measures of success, and its own sets of principles and best practices. The use of data, specifically, presents unique [opportunities](opportunities.md) and [challenges](challenges.md) to civil society.
 
-We need strutural solutions to meet these challenges. 
+We need structural solutions to meet these challenges.
 
 There are six pillars into which we can organize the work of [building capacity](building_capacity.md) for data initiatives in civil society. These Six Pillars are: 
 1. [Healthy Life-cycles](healthy-life-cycles.md)

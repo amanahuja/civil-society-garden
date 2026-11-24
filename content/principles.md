@@ -1,12 +1,14 @@
 ---
 title: "Principles"
+description: "Principles for responsible, sustainable, and inclusive data work in civil society."
+author: Aman Ahuja
 date: 2022-02-20
 tags:
 - core-concept
 draft: false
 ---
 
-Building data tools or technologies in this space requires a resonance with these values of civil society, an understanding of them and a desire to support and advance them. The kinds of principes that guide such work are: 
+Building data tools or technologies in this space requires a resonance with these values of civil society, an understanding of them and a desire to support and advance them. The kinds of principles that guide such work are:
 * Design for sustainability. 
 * Understand the system.
 * Consider the impact and consequences. 
@@ -16,10 +18,10 @@ Building data tools or technologies in this space requires a resonance with thes
 * Inclusive and participatory co-design.
 * Be humble. 
 
-These are living principles, intended to help guide our work, and are intended to be refined and improved over time. These values apply to the sytems and institutions in which we work, and also to the digital tools that we create in and for civil society. 
+These are living principles, intended to help guide our work, and are intended to be refined and improved over time. These values apply to the systems and institutions in which we work, and also to the digital tools that we create in and for civil society.
 
 **References and recommended reading**
-* Aman's personal manifesto and principles. 
+* [The Fenris Manifesto](https://gofenris.com/manifesto/)
 * [DIAL Principles for Digital Development](https://digitalprinciples.org/)
 * The [Aspiration Manifesto](https://aspirationtech.org/publications/manifesto)
 * Digital rights values, FATE (fairness, accountability, transparency, ethics)

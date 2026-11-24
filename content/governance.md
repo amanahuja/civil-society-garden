@@ -1,5 +1,7 @@
 ---
 title: "Governance Frameworks"
+description: "Governance models, safeguards, and institutions for responsible civil society data initiatives."
+author: Aman Ahuja
 date: 2022-03-13
 tags:
 - pillar
@@ -24,7 +26,7 @@ Governance and Legal frameworks
 * Accountability
 * Ethics committees and review boards
 
-In recent years there's been important advancements and creation of new tools to address governance issues. 
+In recent years there have been important advances and new tools to address governance issues.
 
 Concepts and models for data governance and collaboration:
 * Data Trusts
