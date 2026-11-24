@@ -1,17 +1,21 @@
-# Quartz v5
+# The Civil Society Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> A "digital garden", or mind-map, for developing sustainable products in civil society.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+https://amanahuja.me/civil-society-garden/
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+### What does it take to build effective and resilient digital products in civil society?
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Products in civil society often take the form of digital public goods. They are free resources that benefit or empower the general public. They are designed and managed responsibly. These resources are often created by academics, non profit organizations, community based organization, or through a collaboration of teams. To be sustainable, they must balance power among stakeholders and define a long-term plan for funding and resources. They must plan for the governance and ownership of the data they use during and beyond their own lifespans.
 
-## Sponsors
+How can such initiatives be successful? What support systems and environments can we provide so that these resources can flourish and benefit everyone?
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+The central ideas in this garden revolve around <b>Six Pillars</b> that strengthen data initiatives in civil society. These pillars are motivated by a discussion of the <b>challenges</b> as well as the <b>opportunities</b> in what will be a pivotal decade ahead. Guiding the work in this space are <b>principles</b> to help ensure we do not drift from our values. And finally, we outline a vision for the <b>desired future state</b> that can be achieved through this work and by reinforcement of the six pillars.
+
+### Authors
+
+[To be added].
+
+### Technical information
+
+This website is built with [Quartz 5](https://quartz.jzhao.xyz/), a free and open-source static site generator.

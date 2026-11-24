@@ -3,21 +3,16 @@ name: Build and Test
 on:
   pull_request:
     branches:
-      - v5
+      - main
   push:
     branches:
-      - v5
+      - main
+      - dev/v5_migration
   workflow_dispatch:
 
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
-    strategy:
-      matrix:
-        os: [windows-latest, macos-latest, ubuntu-latest]
-    runs-on: ${{ matrix.os }}
-    permissions:
-      contents: write
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
         with:
@@ -56,35 +51,4 @@ jobs:
         run: npm test
 
       - name: Ensure Quartz builds, check bundle info
-        run: npx quartz build --bundleInfo -d docs
-
-      - name: Check for a changeset
-        if: ${{ github.event_name == 'pull_request' && matrix.os == 'ubuntu-latest' }}
-        # Non-blocking: docs-only or internal changes don't need one.
-        run: |
-          npx changeset status --since=origin/v5 >/dev/null 2>&1 \
-            || echo "::warning::No changeset in this PR. If it changes how Quartz behaves, run 'npx changeset' (see .changeset/README.md)."
-
-  publish-tag:
-    if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v5' }}
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-      - name: Setup Node
-        uses: actions/setup-node@v6
-        with:
-          node-version: 24
-      - name: Get package version
-        run: node -p -e '`PACKAGE_VERSION=${require("./package.json").version}`' >> $GITHUB_ENV
-      - name: Create release tag
-        uses: pkgdeps/git-tag-action@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_repo: ${{ github.repository }}
-          version: ${{ env.PACKAGE_VERSION }}
-          git_commit_sha: ${{ github.sha }}
-          git_tag_prefix: "v"
+        run: npx quartz build --bundleInfo
